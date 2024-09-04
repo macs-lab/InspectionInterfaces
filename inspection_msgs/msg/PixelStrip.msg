@@ -1,0 +1,1 @@
+std_msgs/COLORRGBA[] pixel_colors
