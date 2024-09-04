@@ -1,1 +1,1 @@
-std_msgs/COLORRGBA[] pixel_colors
+std_msgs/ColorRGBA[] pixel_colors
